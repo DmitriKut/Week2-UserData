@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\UseAge.exe
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\UseAge.deps.json
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\UseAge.runtimeconfig.json
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\UseAge.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\UseAge.dll
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\ref\UseAge.dll
+C:\Users\atrei\source\repos\UserData\UseAge\bin\Debug\net5.0\UseAge.pdb
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.csproj.AssemblyReference.cache
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.AssemblyInfo.cs
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.dll
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\ref\UseAge.dll
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.pdb
+C:\Users\atrei\source\repos\UserData\UseAge\obj\Debug\net5.0\UseAge.genruntimeconfig.cache

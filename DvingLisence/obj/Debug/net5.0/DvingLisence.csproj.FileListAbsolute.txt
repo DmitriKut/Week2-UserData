@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\DvingLisence.exe
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\DvingLisence.deps.json
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\DvingLisence.runtimeconfig.json
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\DvingLisence.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\DvingLisence.dll
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\ref\DvingLisence.dll
+C:\Users\atrei\source\repos\UserData\DvingLisence\bin\Debug\net5.0\DvingLisence.pdb
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.AssemblyInfo.cs
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.dll
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\ref\DvingLisence.dll
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.pdb
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.genruntimeconfig.cache
+C:\Users\atrei\source\repos\UserData\DvingLisence\obj\Debug\net5.0\DvingLisence.csproj.AssemblyReference.cache
